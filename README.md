@@ -8,7 +8,7 @@ go get github.com/hugozhu/dns
 
 go get github.com/boltdb/bolt
 
-golang.org/x/net/proxy
+go get golang.org/x/net/proxy
 ```
 
 # RUN
