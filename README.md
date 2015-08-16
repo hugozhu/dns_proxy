@@ -1,4 +1,4 @@
-# dns_proxy
+# DNS Proxy
 proxy DNS query to a secured upstream DNS server
 
 # INSTALL
