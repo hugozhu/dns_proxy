@@ -4,6 +4,12 @@ proxy DNS query to a secured upstream DNS server
 # INSTALL
 
 ```
+git clone https://github.com/hugozhu/dns_proxy.git
+
+cd dns_proxy
+
+export GOPATH=`pwd`
+
 go get github.com/hugozhu/dns
 
 go get github.com/boltdb/bolt
