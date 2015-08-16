@@ -3,10 +3,13 @@ proxy DNS query to a secured upstream DNS server
 
 # INSTALL
 
-`go get github.com/hugozhu/dns`
-`go get github.com/boltdb/bolt`
-`golang.org/x/net/proxy`
+```
+go get github.com/hugozhu/dns
 
+go get github.com/boltdb/bolt
+
+golang.org/x/net/proxy
+```
 
 # RUN
 
